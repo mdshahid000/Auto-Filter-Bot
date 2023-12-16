@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/07d191e179b4e8490ec92.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> Auto Filter Bot </b>
 </h1>
 
 
